@@ -17,7 +17,6 @@ Here's a list of the problems I've solved so far:
 - [9. Palindrome Number](./9_Palindrome%20Number/)
 - [344. Reverse String](./344_Reverse%20String/)
 - [704. Binary Search](./704_Binary%20Search/)
-- [1456. Maximum Number of Vowels in a Substring of Given Length](./1456_Maximum%20Number%20of%20Vowels/)
 
 ### File Structure
 Each problem is contained in its own directory, named after the problem's number and title (with spaces replaced by underscores). Inside each directory, you'll find my solution to the problem in one or more files, along with a README file (if necessary) that explains the problem and my approach to solving it.
